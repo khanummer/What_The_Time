@@ -1,0 +1,25 @@
+.Timer {
+    display: flex;
+    flex-flow: column nowrap;
+    color: hotpink;
+    background-color: black;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    font-size: 5rem;
+}
+
+.timer-button {
+    color: black;
+    background-color: hotpink;
+    border: none;
+    padding: 1rem;
+    margin: 3rem;
+    /* border-radius: 30%; */
+    font-size: 1rem;
+}
+
+.timer-number {
+    padding: 2rem;
+    font-size: 7rem;
+}
